@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f07bd27-39cb-4e64-9ec9-e8fdc247f4d6" name="Default" comment="秒杀系统">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f07bd27-39cb-4e64-9ec9-e8fdc247f4d6" name="Default" comment="秒杀系统" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,16 +22,15 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="304">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -662,7 +659,7 @@
       <workItem from="1560328642525" duration="741000" />
       <workItem from="1560398019977" duration="56000" />
       <workItem from="1560400103207" duration="266000" />
-      <workItem from="1560402408884" duration="8121000" />
+      <workItem from="1560402408884" duration="8372000" />
     </task>
     <task id="LOCAL-00001" summary="完成基于MySQL的悲观锁高并发操作，并利用JMeter进行相应的压测">
       <created>1509252465270</created>
@@ -720,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560400173815</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="秒杀系统">
+      <created>1560415798170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560415798170</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -756,7 +760,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174769000" />
+    <option name="totallyTimeSpent" value="175020000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -769,9 +773,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="642" y="0" width="1214" height="1118" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3252595" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3252595" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -789,7 +792,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50086504" side_tool="true" weight="0.23863636" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983193" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32878152" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49913496" visible="true" weight="0.40263692" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49913496" visible="true" weight="0.40263692" />
       <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32878152" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
@@ -1158,8 +1161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>
